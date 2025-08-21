@@ -1,1 +1,1 @@
-This is where I will describe what the current project is and what skills I will have used after creating the project. 
+I have created a website for recipes that includes my favorite foods which are local to my home country, Philippines. In creating this website, I utilized all of the preceding lessons in the Fundamentals Course of The Odin Project: headings, paragraphs, lists, links, and images.
