@@ -1,3 +1,7 @@
+* {
+    font-family: Inter, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
 body {
     background-color: rgb(21, 32, 53);
 }
