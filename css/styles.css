@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(21, 32, 53);
+}
+
+h1 {
+    text-align: center;
+    background-color: rgb(196, 152, 71);
+    color: rgb(240, 229, 208);
+}
+
+ul {
+    text-align: center;
+}
+
+li {
+    display: inline;
+    margin: 0px 20px;
+}
+
+img {
+    height: 450px;
+    border: 10px solid rgb(196, 152, 71);
+}
