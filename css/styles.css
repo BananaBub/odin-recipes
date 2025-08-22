@@ -5,14 +5,14 @@ body {
 h1 {
     text-align: center;
     background-color: rgb(196, 152, 71);
-    color: rgb(240, 229, 208);
+    color: beige;
 }
 
 ul {
     text-align: center;
 }
 
-li {
+.recipe-link li {
     display: inline;
     margin: 0px 20px;
 }
@@ -20,4 +20,16 @@ li {
 img {
     height: 450px;
     border: 10px solid rgb(196, 152, 71);
+}
+
+.recipe-title li {
+    margin: 0 120px;
+    display: inline;
+}
+
+.recipe-title li p {
+    color: beige;
+    font-size: 30px;
+    font-weight: bold;
+    display: inline;
 }
